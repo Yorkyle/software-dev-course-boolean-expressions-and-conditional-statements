@@ -45,7 +45,7 @@ if (choice1 === "mountains" && hasTorch) {
   console.log("\nBad choice. You get lost and wander aimlessly.");
 }
 
-console.log("\nUpon approaching the town, you spot a old merchant peddling wares. Something is odd about him, but you can't put your finger on exactly what.");
+console.log("\nUpon approaching the town, you spot an old merchant peddling wares. Something is odd about him, but you can't put your finger on exactly what.");
 const choice2 = readline.question("\nDo you 'ignore' or 'greet' him?");
 
 if (choice2 === "ignore" && hasACowToSell) {
