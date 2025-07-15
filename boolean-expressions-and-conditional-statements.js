@@ -50,3 +50,5 @@ Add Customization and expand the game:
   - Use nested conditionals and logical operators to create complex outcomes.
 
 */
+
+console.log("This is a test.");
